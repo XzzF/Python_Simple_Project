@@ -1,4 +1,4 @@
-# Python_Single_Project
+# Python_Simple_Project
 
 There are some single projects that I wrote in Python.
 
